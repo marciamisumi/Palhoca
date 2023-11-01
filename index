@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Página 1</title>
+    <title>Pontos turisticos</title>
 </head>
 <body>
-    <h1>Página 1</h1>
-    <p>Esta é a primeira página.</p>
-    <a href="Praias.html">Ir para a praias</a>
+    <h1>Praias</h1>
+    <p>Pinheira.</p>
+    <p>Ponta do Papagaio.</p>
+    <a href="Restaurantes.html">Ir para restaurantes</a>
 </body>
 </html>
